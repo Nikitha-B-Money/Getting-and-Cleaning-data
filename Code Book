@@ -1,4 +1,6 @@
 This code book describes the variables in the tidydataset provided.
+the original dataset can be downloaded from the below mentioned link
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 This dataset consist of 4 variables S
 1. subject :  Each row identifies the subject who performed the activity 
 2. activity : These are different activities performed by each subject
